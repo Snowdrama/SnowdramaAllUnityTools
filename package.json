@@ -1,0 +1,30 @@
+{
+  "name": "com.snowdrama.all_extensions",
+  "version": "0.1.1",
+  "description": "A Package for quickly installing all other Snowdrama Util Packages",
+  "displayName": "Snowdrama All Packages",
+  "unity": "2019.1",
+  "author": {
+    "name": "John 'Snowdrama' Close",
+    "email": "SnowdramaGames@gmail.com",
+    "url": "http://www.snowdrama.net"
+  },
+  "dependencies": {
+    "com.snowdrama.class_extensions":"",
+    "com.snowdrama.extensionutils":"",
+    "com.snowdrama.class_extensions":"",
+    "com.snowdrama.class_extensions":"",
+    "com.snowdrama.class_extensions":"",
+    "com.snowdrama.class_extensions":"",
+    "com.snowdrama.class_extensions":"",
+    "com.snowdrama.class_extensions":""
+  },
+  "type": "utility",
+  "samples": [
+    {
+      "displayName": "Menu Example",
+      "description": "Contains an example for how to make a basic menu",
+      "path": "Samples~/UIRouterMenuExample"
+    }
+  ]
+}
